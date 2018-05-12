@@ -1,0 +1,29 @@
+_repo: A-Short-View-of-the-Immorality-and-Profaneness-of-the-English-Stagetogether-with-the-Sense-of__44645
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44645-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Collier, Jeremy
+    birthdate: 1650
+    deathdate: 1726
+    gutenberg_agent_id: '42855'
+    url: http://www.gutenberg.org/2009/agents/42855
+description: 1. Nachdruck der 3. Aufl -- von 1698 mit einem bibliographischen Nachwort
+  von Ulrich Broich.
+gutenberg_issued: '2014-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- England -- Early works to 1800'
+- !lcc 'PN'
+- !lcsh 'Theater -- Moral and ethical aspects -- Early works to 1800'
+title: "A Short View of the Immorality, and Profaneness of the English Stage\r\nTogether\
+  \ with the Sense of Antiquity on this Argument"
+url: http://www.gutenberg.org/ebooks/44645
