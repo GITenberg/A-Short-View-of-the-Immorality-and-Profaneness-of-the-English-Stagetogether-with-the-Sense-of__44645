@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42855
 description: 1. Nachdruck der 3. Aufl -- von 1698 mit einem bibliographischen Nachwort
   von Ulrich Broich.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44645#A-Short-View-of-the-Immorality-and-Profaneness-of-the-English-Stagetogether-with-the-Sense-of_
 gutenberg_issued: '2014-01-11'
 gutenberg_type: Text
 identifiers:
